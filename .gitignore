@@ -2,3 +2,5 @@
 *package-lock.json
 *content
 *.mp4
+*.eslintcache
+*.README.md
